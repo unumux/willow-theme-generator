@@ -1,0 +1,40 @@
+.willow-alert {
+    
+
+    &::before {
+        
+
+    }
+
+    @import "heading";
+    @import "content";
+}
+
+.willow-alert--positive {
+    
+    
+    &::before {
+        
+        
+    }
+}
+
+.willow-alert--warning {
+    
+    
+
+    &::before {
+        
+        
+    }
+}
+
+.willow-alert--negative {
+    
+    
+
+    &::before {
+        
+        
+    }
+}

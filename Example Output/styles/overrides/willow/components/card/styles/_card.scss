@@ -1,0 +1,26 @@
+.willow-card {
+    @import "image";
+    @import "content";
+    @import "icon";
+    @import "heading";
+    @import "description";
+    @import "actions";
+    @import "action";
+}
+
+.willow-card[href] {
+
+    &:visited,
+    &:hover,
+    &:active {
+        
+    }
+
+    &:hover {
+
+    }
+
+    &:active {
+
+    }
+}

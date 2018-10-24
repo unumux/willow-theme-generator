@@ -1,0 +1,29 @@
+&__content-close {
+    
+    &:visited {
+    
+
+    }
+
+    &:hover {
+        
+
+    }
+
+    &:active {
+        
+        
+    }
+
+    [data-content-open="true"] & {
+        
+        
+    }
+
+    @media screen and (min-width: breakpoint(medium)) {
+        [data-content-open="true"] & {
+            
+            
+        }
+    }
+}

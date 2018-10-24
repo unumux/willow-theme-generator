@@ -1,0 +1,24 @@
+&__content {
+    
+    
+
+    [data-content-open="true"] & {
+        
+        
+    }
+
+    [data-content-open="false"] & {
+        
+        
+    }
+
+    @media screen and (min-width: breakpoint(medium)) {
+        
+        
+
+        [data-content-open="false"] & {
+            
+            
+        }
+    }
+}

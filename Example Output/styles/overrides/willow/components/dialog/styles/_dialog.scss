@@ -1,0 +1,13 @@
+.willow-dialog {
+   
+
+    &[data-dialog-close="false"] {
+
+    }
+
+    @import "container";
+    @import "heading";
+    @import "content";
+    @import "actions";
+    @import "action";
+}

@@ -1,0 +1,15 @@
+&__item {
+
+    
+    &:last-of-type {
+        &::after {
+        }
+    }
+
+    @media screen and (min-width: breakpoint(lg, $grid-breakpoints)) {
+
+        &::after {
+
+        }
+    }
+}

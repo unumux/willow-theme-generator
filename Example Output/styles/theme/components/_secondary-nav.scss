@@ -1,0 +1,19 @@
+@import "../constants/colors";
+
+$component-secondary-nav-background-color: $color-light !default;
+$component-secondary-nav-border: 2px solid $color-middle !default;
+$component-secondary-nav-link-color: $color-middle !default;
+$component-secondary-nav-link-color-hover: $color-light !default;
+$component-secondary-nav-link-color-focus: $color-middle !default;
+$component-secondary-nav-link-color-visited: $color-middle !default;
+$component-secondary-nav-link-color-active: $color-middle !default;
+$component-secondary-nav-link-color-active-item: $color-light !default;
+//Link background and text color for Hover and Active
+$component-secondary-nav-link-background-color: initial !default;
+$component-secondary-nav-link-background-color-hover: $color-dark !default;
+$component-secondary-nav-link-background-color-active: $color-middle !default;
+$component-secondary-nav-link-background-color-focus: initial !default;
+$component-secondary-nav-link-border-color-active: $color-dark !default;
+
+$component-secondary-nav-heading-background-color: $color-dark !default;
+$component-secondary-nav-heading-color: $color-light !default;
